@@ -1,3 +1,5 @@
+# Bootcamp JS 2 - Laboratorio Módulo 1 - HTML
+
 1. Creación del proyecto (mkadir 01_laboratorio-html), inicialización del repositorio local. git init
 2. Maquetación del contenido principal de la página mediante html, uso de css para darle estilos y aplicarle resposive en elementos que lo necesitaban.
 - Ancho máximo esablecido de la página de 1280px, con una columna central para resoluciones más grandes.
